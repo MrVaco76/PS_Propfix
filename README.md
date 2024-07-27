@@ -3,10 +3,12 @@
 Join our Discord for support and feature scripts: https://discord.gg/XQHVstYRGx
 
 
+
 ## What does it do exactly?
 Have you ever experienced the frustration of performing an emote and having a prop get stuck in your hand? With this script,
 you can simply use the /propfix command to remove the prop. No need to reconnect every time. 
 Enjoy the seamless experience!
+preview: https://youtu.be/co-Ein17tLQ
 
 ## Installation instructions
 
